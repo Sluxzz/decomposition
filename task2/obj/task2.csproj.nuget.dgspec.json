@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj": {}
+    "C:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj": {
+    "C:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "c:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\misab\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\obj\\",
+        "outputPath": "C:\\Users\\misab\\OneDrive\\Рабочий стол\\Мои программы\\28-10-decomposition\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misab\\AppData\\Roaming\\NuGet\\NuGet.Config",
